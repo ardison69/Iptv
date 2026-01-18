@@ -11,11 +11,6 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="INDONESIA",GTV
 https://allcutv.rctiplus.id/gtv2023.m3u8
 
-
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews R+
-#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -32,15 +27,25 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="INDONESIA",ANTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
+https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/antv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png" group-title="INDONESIA" , NET TV/MDTV VIP
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews R+
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="INDONESIA", MOJI TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png" group-title="INDONESIA" , NET TV/MDTV VIP
-https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/200px-KOMPAS_TV_%282017%29.svg.png" group-title="INDONESIA",KOMPAS TV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
